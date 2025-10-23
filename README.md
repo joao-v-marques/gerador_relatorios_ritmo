@@ -30,13 +30,6 @@ O projeto demonstra o uso prático de **RPA em Python** aplicado a **processos c
 2. Ao iniciar, a aplicação fará todo o processo automaticamente.  
 3. Quando o relatório estiver pronto, selecione o local de salvamento na janela exibida.  
 
-## 📁 Estrutura Simplificada
-├── controller/ # Controller responsável por consultar o banco
-├── main.py # Código principal da automação
-├── requirements.txt # Dependências do projeto
-├── /dist # Arquivo .exe gerado pelo PyInstaller
-└── README.md
-
 ## 🧑‍💻 Autor
 
 **João Victor Marques**  
