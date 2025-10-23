@@ -1,0 +1,8 @@
+.venv
+build
+/database/__pycache__
+/database/instantclient_23_6
+/database/queries/veiculos_novos.sql
+/database/configs.json
+/dist
+main.spec
