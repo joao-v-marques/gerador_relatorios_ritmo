@@ -26,8 +26,8 @@ def gerar_excel(dados, nome_relatorio):
     ws.append(colunas)
 
     # * Estilo do cabeçalho
-    header_fill = PatternFill(start_color="1E90FF", end_color="1E90FF", fill_type="solid")
-    header_font = Font(color="FFFFFF", bold=True)
+    header_fill = PatternFill(start_color="FFFFFF", end_color="FFFFFF", fill_type="solid")
+    header_font = Font(color="000000", bold=True)
     header_alignment = Alignment(horizontal="center", vertical="center")
 
     for cell in ws[1]:
