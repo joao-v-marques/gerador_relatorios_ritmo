@@ -35,4 +35,3 @@ O projeto demonstra o uso prático de **RPA em Python** aplicado a **processos c
 **João Victor Marques**  
 💼 Desenvolvedor Python | Automação | Flask | SQL  
 📧 Contato: [joaovmarques2006@outlook.com] 
-🌐 GitHub: [https://github.com/joao-v-marques]
